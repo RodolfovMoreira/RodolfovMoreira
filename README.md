@@ -22,6 +22,7 @@ I'm currently into Web Development 🕸️ and working on my cloud skills 🤓.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RodolfovMoreira).
 - 📫 &nbsp; How to reach me: rodolfomoreira1994@gmail.com
+- 🌎️ &nbsp; I can communicate in English 🇺🇸️ and French 🇫🇷️
 - 💻️ &nbsp; Checkout my [site](https://rodolfomoreira.dev).
 
 ### Languages and Tools:
