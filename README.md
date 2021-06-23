@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Hey 👋, I'm [Rodolfo Moreira!](https://github.com/RodolfovMoreira)
 
