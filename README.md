@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Rodolfo Moreira!](https://github.com/RodolfovMoreira)
+## Hey 👋, I'm [Rodolfo Moreira!](https://www.linkedin.com/in/travailavecrodolfo/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/travailavecrodolfo/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rodolfomoreira.dev)
@@ -13,11 +13,11 @@ I'm a final year student pursuing Bachelors's in Computer Engineering 🎓 from 
 I'm a curious person who's always willing to discover and learn new technologies, people, cultures 💡. <br />
 I feel incredible when working with new technologies and build stuff with them ✨
 
-I'm currently into Web Development 🕸️ and working on my cloud skills 🤓.
+I'm currently into Web Development 🕸️ and working on my backend skills 🤓.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Javascript, React and related libraries.
+- 🛠 &nbsp; I’m currently working with Javascript and Node, mainly with React and related libraries.
 - 🚀 &nbsp; I’m currently focusing on Front End Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RodolfovMoreira).
 - 📫 &nbsp; How to reach me: rodolfomoreira1994@gmail.com
